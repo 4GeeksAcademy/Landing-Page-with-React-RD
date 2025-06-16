@@ -6,7 +6,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 const JumboTron = () => {
 	return (
 							<div className="jumbotron jumbotron-fluid bg-light">
-						<h1 className="display-4">Hello, world!</h1>
+						<h1 className="display-4">A Warm Welcome!</h1>
 						<p className="lead">
 							This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.
 						</p>
